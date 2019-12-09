@@ -1,0 +1,13 @@
+[05-Dec-2019 08:54:19 UTC] PHP Warning:  require(/home/opensystems/public_html/uroflowmetry/uroflowmetry/vendor/autoload.php): failed to open stream: No such file or directory in /home/opensystems/public_html/uroflowmetry/index.php on line 25
+[05-Dec-2019 08:54:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/opensystems/public_html/uroflowmetry/uroflowmetry/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/opensystems/public_html/uroflowmetry/index.php on line 25
+[05-Dec-2019 08:55:28 UTC] PHP Warning:  require(/home/opensystems/public_html/uroflowmetry/uroflowmetry/vendor/autoload.php): failed to open stream: No such file or directory in /home/opensystems/public_html/uroflowmetry/index.php on line 25
+[05-Dec-2019 08:55:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/opensystems/public_html/uroflowmetry/uroflowmetry/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/opensystems/public_html/uroflowmetry/index.php on line 25
+[05-Dec-2019 08:56:58 UTC] PHP Warning:  require_once(/home/opensystems/public_html/uroflowmetry/../bootstrap/app.php): failed to open stream: No such file or directory in /home/opensystems/public_html/uroflowmetry/index.php on line 40
+[05-Dec-2019 08:56:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/opensystems/public_html/uroflowmetry/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/opensystems/public_html/uroflowmetry/index.php on line 40
+[05-Dec-2019 08:58:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/opensystems/public_html/uroflowmetry/bootstrap/app.php:14
+Stack trace:
+#0 /home/opensystems/public_html/uroflowmetry/index.php(40): require_once()
+#1 {main}
+  thrown in /home/opensystems/public_html/uroflowmetry/bootstrap/app.php on line 14
+[05-Dec-2019 08:59:53 UTC] PHP Warning:  require(/home/opensystems/public_html/uroflowmetry/uroflowmetry/vendor/autoload.php): failed to open stream: No such file or directory in /home/opensystems/public_html/uroflowmetry/index.php on line 25
+[05-Dec-2019 08:59:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/opensystems/public_html/uroflowmetry/uroflowmetry/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/opensystems/public_html/uroflowmetry/index.php on line 25

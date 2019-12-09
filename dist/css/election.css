@@ -1,0 +1,13 @@
+.treeview .list-group .list-group-item {
+    border: none;
+    height: 30px;
+    padding: 4px 2px 2px 2px;
+    background: transparent;
+    font-size: 12px;
+    /* width: 150px; */
+}
+.treeview span.icon {
+    width: 12px;
+    margin-right: 2px;
+    /* margin-left: 15px; */
+}
